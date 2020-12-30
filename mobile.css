@@ -1,0 +1,108 @@
+@media (max-width:950px) {
+
+}
+
+
+
+@media (max-width:700px) {
+.problem{
+  padding-bottom: 20px;
+}
+.intro-word{
+  padding: 20px 20px;
+}
+.header{
+  margin: 50px 0;
+}
+  .middle-container{
+    display: block;
+    text-align: center;
+    padding: 50px 0 20px 0;
+  }
+  .third-container{
+    width: 100%;
+    /* padding: 50px 0 20px 0; */
+    margin: 30px 0 0 0;
+    /* display: block; */
+    /* text-align: center; */
+  }
+  .my-image{
+    width: 50%;
+  }
+  .header h1{
+    font-size: 0.85rem;
+    font-weight: bold;
+  }
+  .header h3, h4, h5{
+    font-size: 0.85rem;
+  }
+  .p{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+
+  }
+.cont2{
+  /* text-align: center; */
+}
+.middle-container{
+  width: 100%;
+}
+.image1{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.image2{
+  width: 100%;
+  margin: 0;
+}
+  .cont-3{
+    display: block;
+    text-align: center;
+  }
+.text{
+  width: 85%;
+  margin: 0 auto;
+}
+.bottom-container{
+  display: block;
+}
+/* .bottom-left{
+  margin: 0 auto;
+  padding-bottom: 30px 0;
+  margin-left: 0;
+} */
+.bottom-right{
+  margin: 60px auto;
+  padding-top: 10px;
+}
+.button{
+  font-size: 2.0rem;
+  width: 80%;
+}
+.contact-me{
+  margin-top: 70px;
+  margin-bottom: 90px;
+}
+.png{
+  width: 15%;
+}
+/* .mail{ */
+  /* font-size: 4rem; */
+/* } */
+/* .bottom {
+  font-size: 4rem;
+  color: #4a4e69;
+  font-family: 'Open Sans Condensed', sans-serif;
+} */
+a:link {
+  text-decoration: none;
+  font-family: 'Open Sans Condensed', sans-serif;
+font-size: 2rem;
+letter-spacing: 2px;
+}
+.web-png{
+padding-bottom: 100px;
+}
+}
