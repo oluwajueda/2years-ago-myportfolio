@@ -8,6 +8,7 @@
 .problem{
   padding-bottom: 20px;
 }
+
 .intro-word{
   padding: 20px 20px;
 }
@@ -30,11 +31,11 @@
     width: 50%;
   }
   .header h1{
-    font-size: 0.85rem;
+    font-size: 1.5rem;
     font-weight: bold;
   }
   .header h3, h4, h5{
-    font-size: 0.85rem;
+    font-size: 0.6rem;
   }
   .p{
     margin: 0 auto;
@@ -99,7 +100,7 @@
 a:link {
   text-decoration: none;
   font-family: 'Open Sans Condensed', sans-serif;
-font-size: 2rem;
+font-size: 1.5rem;
 letter-spacing: 2px;
 }
 .web-png{
